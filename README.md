@@ -1,6 +1,12 @@
 # Portfolio
 A collection of my projects in data analytics and NLP
 
+## Excel Data Analysis
+| Project | Tools | Description
+| -- | -- | -- |
+| Sales Performance Dashboard | Excel, PivotTables, PivotCharts | Built an interactive sales dashboard to analyze sales performanne and identify trends across time, regions, products, payment methods and customer types using key sales KPIs and interactive visualizations.|
+| Author Performance & Book Sales Analysis | Excel, PivotTables, PivotCharts, IF statements | Analyzed author performance from both reader reception and commercial perspectives. Preprocessed the dataset by removing incomplete records and categorized books by publishing era using IF statements, then compared ratings, review counts, unit sold, gross sales, and sale price across author categories | 
+
 ## NLP and Text Mining 
 | Project | Tools | Description
 | -- | -- | -- | 
