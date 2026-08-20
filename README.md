@@ -1,6 +1,11 @@
 # Portfolio
 A collection of my projects in data analytics and NLP
 
+## SQL Data Analysis
+| Project | Tools | Description
+| -- | -- | -- |
+| Chocolate Sales Analysis | MySQL | Analyzed chocolate sales data across countries, brands, products, and payment methods. Used aggregations, subqueries, CTEs, conditional aggregation, and window functions to identify top-performing markets, brands, products, and payment preferences.|
+
 ## Excel Data Analysis
 | Project | Tools | Description
 | -- | -- | -- |
